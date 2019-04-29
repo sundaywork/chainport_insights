@@ -27,8 +27,6 @@ sass:
   style: compressed
 permalink: pretty
 remote_theme: siteleaf/siteleaf.com
-
-
 per_page: 12
 date_format: "%b %d, %Y"
 google_analytics: UA-1666437-33
