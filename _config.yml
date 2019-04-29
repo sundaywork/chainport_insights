@@ -20,14 +20,11 @@ defaults:
     type: pages
   values:
     layout: page
-    
 plugins:
 - jekyll-remote-theme
-
 sass:
   sass_dir: styles/
   style: compressed
-  
 permalink: pretty
 remote_theme: siteleaf/siteleaf.com
 
