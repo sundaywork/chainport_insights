@@ -23,4 +23,4 @@ defaults:
 plugins:
 - jekyll-remote-theme
 permalink: pretty
-remote_theme: destroytoday/otletsshelf-for-siteleaf
+remote_theme: siteleaf/siteleaf.com
