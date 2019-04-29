@@ -21,6 +21,6 @@ defaults:
   values:
     layout: page
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 permalink: pretty
 remote_theme: benbalter/retlab
