@@ -1,5 +1,6 @@
 ---
 title: Chainport Insights
+layout: default
 date: 2019-04-28 22:26:00 Z
 Field name: 
 ---
