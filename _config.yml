@@ -20,6 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
+plugins:
+  - jekyll-remote-theme
 permalink: pretty
-remote_theme: siteleaf/siteleaf.com
-theme: jekyll-theme-cayman
+remote_theme: benbalter/retlab
