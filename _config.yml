@@ -32,14 +32,11 @@ date_format: "%b %d, %Y"
 google_analytics: UA-1666437-33
 twitter:
   username: siteleaf
-logo: "/assets/logo.svg"
+logo: "/assets/logo.png"
 future: true
 header_nav:
-  Blog: "/blog/"
-  Gallery: "/gallery/"
-  Plans: "/plans/"
-  Learn: http://learn.siteleaf.com
-  Log in: https://manage.siteleaf.com
+  Blog: "/posts/"
+  
 footer_nav:
   Features: "/features/"
   Press: http://siteleaf.dropmark.com/326718

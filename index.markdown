@@ -5,6 +5,5 @@ layout: blog
 Field name: 
 ---
 
-![aerial-bay-cargo-1554646.jpg](/uploads/aerial-bay-cargo-1554646.jpg)
 
 Welcome to Chainport Insights.
