@@ -7,7 +7,7 @@ collections:
     output: true
   blog_tags:
     title: Tags
-    output: true    
+    output: true
   uploads:
     title: Uploads
     output: true
