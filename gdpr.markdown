@@ -1,6 +1,6 @@
 ---
 title: GDPR
-date: 2018-05-24 13:31:00 -04:00
+date: 2018-05-24 17:31:00 Z
 position: 6
 layout: post
 ---
