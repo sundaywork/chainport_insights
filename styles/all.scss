@@ -56,11 +56,11 @@ h6 {
   font-weight: $font-weight--bold;
 }
 h1 {
-  font-size: 3.333333em;
+  font-size: 2.5em;
   line-height: $line-height--tighter;
   letter-spacing: $letter-spacing--tighter;
   @include max-width($max-width--md) {
-    font-size: 2.75em;
+    font-size: 2.5em;
     letter-spacing: $letter-spacing--tight;
   }
   @include max-width($max-width--sm) {
@@ -69,7 +69,7 @@ h1 {
   }
 }
 h2 {
-  font-size: 2.5em;
+  font-size: 2.0em;
   line-height: $line-height--tight;
   letter-spacing: $letter-spacing--tight;
   @include max-width($max-width--sm) {
