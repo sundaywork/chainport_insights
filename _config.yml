@@ -36,7 +36,6 @@ logo: "/assets/logo.png"
 future: true
 header_nav:
   Blog: "/posts/"
-  
 footer_nav:
   Features: "/features/"
   Press: http://siteleaf.dropmark.com/326718
