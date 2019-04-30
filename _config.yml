@@ -38,7 +38,7 @@ twitter:
 logo: "/assets/logo.png"
 future: true
 header_nav:
-  Blog: "/posts/"
+  Blog: "/"
   Gallery: "/gallery/"
 footer_nav:
   Features: "/features/"
