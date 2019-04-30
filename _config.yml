@@ -32,8 +32,8 @@ defaults:
     path: ''
     type: gallery
   values:
-    image:
-    link:
+    image: 
+    link: 
 url: insights.chainport.nz
 permalink: pretty
 exclude:
@@ -52,9 +52,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-excerpt_separator: |2+
-
-
+excerpt_separator: "\n\n"
 sass:
   sass_dir: styles/
   style: compressed
