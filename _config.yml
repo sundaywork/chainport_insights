@@ -30,17 +30,34 @@ defaults:
     layout: tag
 - scope:
     path: ''
-    type: pages
+    type: gallery
   values:
-    layout: page
+    image:
+    link:
+url: insights.chainport.nz
+permalink: pretty
+exclude:
+- Gruntfile.js
+- Gemfile
+- Gemfile.lock
+- package.json
+- README*
+- node_modules
+- ".gitignore"
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+excerpt_separator: |2+
+
+
 sass:
   sass_dir: styles/
   style: compressed
-permalink: pretty
-remote_theme: siteleaf/siteleaf.com
 per_page: 12
 date_format: "%b %d, %Y"
 google_analytics: UA-1666437-33
