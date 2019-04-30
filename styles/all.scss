@@ -56,29 +56,29 @@ h6 {
   font-weight: $font-weight--bold;
 }
 h1 {
-  font-size: 2.5em;
+  font-size: 2.2em;
   line-height: $line-height--tighter;
   letter-spacing: $letter-spacing--tighter;
   @include max-width($max-width--md) {
-    font-size: 2.5em;
+    font-size: 2.2em;
     letter-spacing: $letter-spacing--tight;
   }
   @include max-width($max-width--sm) {
-    font-size: 2.5em;
+    font-size: 2.2em;
     letter-spacing: $letter-spacing--tight;
   }
 }
 h2 {
-  font-size: 2.0em;
+  font-size: 1.6em;
   line-height: $line-height--tight;
   letter-spacing: $letter-spacing--tight;
   @include max-width($max-width--sm) {
-    font-size: 2em;
+    font-size: 1.6em;
   }
   margin-bottom: $v*0.5;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.33em;
   line-height: $line-height--tight;
   letter-spacing: $letter-spacing--tight;
   @include max-width($max-width--sm) {
