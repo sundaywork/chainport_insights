@@ -18,6 +18,17 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    layout: post
+    image: 
+    description: 
+    button:
+      title: 
+      url: 
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
 - scope:
     path: ''
     type: pages
@@ -25,6 +36,8 @@ defaults:
     layout: page
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
 sass:
   sass_dir: styles/
   style: compressed
