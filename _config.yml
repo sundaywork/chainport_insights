@@ -75,8 +75,8 @@ twitter:
 logo: "/assets/logo.png"
 future: true
 header_nav:
-  Blog: "/"
-  Plans: "/plans/"
+  Insights: "/"
+  Home: "https://chainport.nz"
 footer_nav:
   Home: https://chainport.nz
   Privacy: "/privacy/"
