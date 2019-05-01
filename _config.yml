@@ -78,7 +78,7 @@ header_nav:
   Blog: "/"
   Plans: "/plans/"
 footer_nav:
-  Home: "https://chainport.nz"
+  Home: https://chainport.nz
   Privacy: "/privacy/"
   Terms: "/terms/"
   GDPR: "/gdpr/"
