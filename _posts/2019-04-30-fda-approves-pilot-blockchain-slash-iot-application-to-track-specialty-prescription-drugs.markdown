@@ -1,6 +1,6 @@
 ---
 title: FDA Approves Pilot Blockchain/IoT Application
-date: 2019-04-30 01:38:00 Z
+date: 2019-04-29 21:38:00 -04:00
 tags:
 - healthcare
 - tempo
