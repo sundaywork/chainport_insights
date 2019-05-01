@@ -2,8 +2,8 @@
 title: FDA Approves Pilot Blockchain/IoT Application
 date: 2019-04-30 01:38:00 Z
 tags:
-- jekyll
-- tip
+- healthcare
+- tempo
 image: "/uploads/aerial-bay-cargo-1554646.jpg"
 description: FDA has approved a Blockchain/IoT Pilot program to track specialty prescription
   drugs across 3 states.
