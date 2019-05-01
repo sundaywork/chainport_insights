@@ -76,7 +76,7 @@ logo: "/assets/logo.png"
 future: true
 header_nav:
   Insights: "/"
-  Home: "https://chainport.nz"
+  Home: https://chainport.nz
 footer_nav:
   Home: https://chainport.nz
   Privacy: "/privacy/"
