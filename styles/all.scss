@@ -784,9 +784,9 @@ h6 {
     @extend %mk3;
   }
   h2 {
-    font-size: 1.6em;
+    font-size: 1.32em;
     @include max-width($max-width--sm) {
-      font-size: 1.5em;
+      font-size: 1.25em;
     }
     margin-top: $v*1.25;
   }
