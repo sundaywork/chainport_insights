@@ -1,6 +1,6 @@
 ---
 title: Blockchain
-permalink: "/blog/tags/tip/"
+permalink: "/blog/tags/blockchain/"
 color: yellow
 ---
 
