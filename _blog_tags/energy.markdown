@@ -1,6 +1,6 @@
 ---
 title: Energy
 permalink: "/blog/tags/energy/"
-color: green
+color: "#8fcd4a"
 ---
 
