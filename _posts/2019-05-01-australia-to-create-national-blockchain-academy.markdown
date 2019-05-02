@@ -3,6 +3,7 @@ title: Australia to create national blockchain academy
 date: 2019-05-01 00:49:00 -04:00
 tags:
 - tempo
+- blockchain
 image: "/uploads/chair-chairs-class-256491.jpg"
 ---
 
