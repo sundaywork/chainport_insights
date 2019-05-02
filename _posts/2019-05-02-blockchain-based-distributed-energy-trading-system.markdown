@@ -1,6 +1,8 @@
 ---
 title: Blockchain based distributed energy trading system
 date: 2019-05-02 08:23:00 -04:00
+tags:
+- Energy
 ---
 
 A reference article for the designing of Blockchain based distributed energy trading system:
