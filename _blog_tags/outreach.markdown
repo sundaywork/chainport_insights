@@ -1,5 +1,5 @@
 ---
-title: Tutorial
+title: Outreach
 permalink: "/blog/tags/tutorial/"
 color: blue
 ---
