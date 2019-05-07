@@ -1,6 +1,6 @@
 ---
 title: Outreach
-permalink: "/blog/tags/tutorial/"
+permalink: "/blog/tags/outreach/"
 color: blue
 ---
 
