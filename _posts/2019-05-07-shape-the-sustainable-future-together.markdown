@@ -4,7 +4,10 @@ date: 2019-05-07 22:53:00 -04:00
 tags:
 - outreach
 - Energy
+image: "/uploads/withjason.jpeg"
 ---
+
+![withjason.jpeg](/uploads/withjason.jpeg)
 
 Chainport Labs and the leading urban designer Portal Studio have exchanged their visions and mutual interests in shaping the future of a sustainable building and community. This includes the adapting of innovative building materials, creating energy intelligent building designs, reforming the ways of power transforming and transmission, integrating clustered energy storage systems, etc.
 
