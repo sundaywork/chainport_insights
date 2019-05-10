@@ -8,7 +8,7 @@ tags:
 Govt opens low-carbon summit with $47M commitment to new energy research
 [src link](https://www.nzherald.co.nz/index.cfm?objectid=12229245&ref=twitter)
 
-*"The National New Energy Development centre will help create new business and jobs in Taranaki while helping New Zealand move towards clean, affordable, renewable energy and away from fossil fuels," *
+* "The National New Energy Development centre will help create new business and jobs in Taranaki while helping New Zealand move towards clean, affordable, renewable energy and away from fossil fuels," *
 
 *The Budget will also commit $20 million over four years to establish a new science research fund "for cutting edge energy technology so that we can look into the likes of organic photovoltaics, superconductors, nanotechnologies and inductive power," Ardern said.*
 
