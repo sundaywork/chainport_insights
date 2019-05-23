@@ -5,13 +5,13 @@ tags:
 - tempo
 ---
 
-Tempo has released the internal review image v0.4.0. This image is for internal developers and partners evaluation only. To gain support please contact info#chainport.nz.
+Tempo has released the review image v0.4.0. This image is for internal evaluation only. To gain support please contact info#chainport.nz.
 
-## Updates
+## Changes
 
-* Updated API for account ledgers, assets, transactions and balances
-* Transaction validating
-* Node discovery
+* Updated API for account ledgers, transactions and balances.
+* Transaction validating optimization.
+* Node discovery.
 
 To retrieve the image:
 ```
