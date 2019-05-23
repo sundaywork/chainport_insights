@@ -5,7 +5,7 @@ tags:
 - tempo
 ---
 
-Tempo has released the internal review image v0.4.0.
+Tempo has released the internal review image v0.4.0. This image is for internal developers and partners evaluation only. To gain support please contact info#chainport.nz.
 
 ## Updates
 
